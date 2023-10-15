@@ -6,7 +6,11 @@ An API Framework containing an API that can be used to input and process a PDF F
 
 How to run - 
 Install the dependencies - 
+
 pip install requirements.txt
+
+You need to run 2 scripts given in this document as well - 
+https://docs.google.com/document/d/1EgWAq3ySzN97KytKMOexndFF__XWxErW0PwQ3LxxRpk/edit
 
 and to run the server run the command from FastAPI Folder: 
 
